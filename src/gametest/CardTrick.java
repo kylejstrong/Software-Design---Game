@@ -55,6 +55,15 @@ public class CardTrick {
             System.out.println("You Guessed Wrong!");
         }
         
+        /*
+        * Kyle Strong
+        * 991632232
+        */
+        Card luckyCard = new Card();
+        luckyCard.setValue(6);
+        luckyCard.setSuit("Hearts");
+        
     }
     
+}
 }
