@@ -2,7 +2,7 @@
  * Kyle Strong
  * 991632232
  */
-package gametest;
+package ca.sheridancollege.week3.softwarefundamentals.ice1;
 import java.util.Scanner;
 import java.util.Arrays;
 
